@@ -52,9 +52,9 @@ Connect the screen to the Raspberry Pi 4B as follows:
 
 3. Install kernel driver
 
-   Download the driver installation package [here](https://github.com/radxa/radxa-displays-on-raspberry-pi/blob/main/panel-radxa-dsi-dkms_1.0.0_all.deb), or use the wget command to download it:
+   Download the driver installation package [here](https://github.com/radxa/radxa-displays-on-raspberry-pi/releases), or use the wget command to download it:
    ```
-   wget https://github.com/radxa/radxa-displays-on-raspberry-pi/blob/main/panel-radxa-dsi-dkms_1.0.0_all.deb
+   wget https://github.com/radxa/radxa-displays-on-raspberry-pi/releases/download/1.0.0/panel-radxa-dsi-dkms_1.0.0_all.deb
    ```
 
    Install the driver:
