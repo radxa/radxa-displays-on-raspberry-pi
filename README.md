@@ -12,11 +12,11 @@ Product Link: [https://radxa.com/products/accessories/display-8hd](https://radxa
 
 Use No. 2 15-pin to 40-pin FPC cable.
 
-![etcher-step1](pictures/radxa-display-8hd-01.webp)
+![radxa-display-8hd](pictures/radxa-display-8hd-01.webp)
 
 The FPC cable has an additional 7-pin holder that needs to be connected as defined below:
 
-![etcher-step1](pictures/radxa-display-8hd-02.webp)
+![radxa-display-8hd](pictures/radxa-display-8hd-02.webp)
 
 Connect the screen to the Raspberry Pi 4B as follows:
 
@@ -31,7 +31,7 @@ Connect the screen to the Raspberry Pi 4B as follows:
 
 *The seventh pin is currently unused*
 
-![etcher-step1](pictures/radxa-display-8hd-03.webp)
+![radxa-display-8hd](pictures/radxa-display-8hd-03.webp)
 
 ### Software Settings
 
@@ -87,7 +87,7 @@ Connect the screen to the Raspberry Pi 4B as follows:
 
    After restarting, the screen should display normally.
 
-   ![etcher-step1](pictures/radxa-display-8hd-04.webp)
+   ![radxa-display-8hd](pictures/radxa-display-8hd-04.webp)
 
 5. Configured as landscape orientation
 
